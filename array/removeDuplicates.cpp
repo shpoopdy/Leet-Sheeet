@@ -29,7 +29,7 @@
 const int ARRSIZE = 3;
 /*
   In this leetcode problem it only ask that we remove the
-  duplicates by overwriting them and not actually chainging
+  duplicates by overwriting them and not actually changing
   the array by actually removing the values or altering
   the array in anyway. So if you were to run this on your
   pc you will see in the terminal the values still.
